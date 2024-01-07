@@ -12,11 +12,9 @@ Déployement de nouveaux micro services qui permettront l'enregistrement et le d
 
 L'application sera déployer sur EKS .
 
-
 #EKS link:
 
-git@github.com:yousskadi/EKS-Config-terraform.git
-
+https://github.com/yousskadi/EKS-Config-terraform
 
 Push test
  
